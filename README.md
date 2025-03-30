@@ -63,5 +63,5 @@ The CNN model follows the **LeNet-5** structure:
     ├── predictions.csv      # Model predictions saved in CSV format  
 /README.md                   # Project documentation 
 
-## Author:
+### Author:
 Ashish Michael Chauhan (055007)
