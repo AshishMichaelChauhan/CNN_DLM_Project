@@ -52,14 +52,7 @@ The CNN model follows the **LeNet-5** structure:
 
 ---
 
-## 📚 Installation & Usage
-
-### 1. Clone the Repository  
-```bash```
-git clone https://github.com/YourUsername/Handwritten-Digit-Recognition-CNN.git
-
-pip install -r requirements.txt
-
+## 📚 File Structure
 
 /data  
     ├── train.csv            # Training dataset  
@@ -70,5 +63,5 @@ pip install -r requirements.txt
     ├── predictions.csv      # Model predictions saved in CSV format  
 /README.md                   # Project documentation 
 
-Author:
+## Author:
 Ashish Michael Chauhan (055007)
