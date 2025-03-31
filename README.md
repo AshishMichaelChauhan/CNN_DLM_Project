@@ -20,7 +20,9 @@ Handwritten digit recognition is essential for automating tasks in various domai
 
 ## Dataset
 The download links for the train dataset and test datasets have been mentioned as follows:
+
 Train Dataset: https://drive.google.com/uc?id=1AtNUBic84CAwFwBNGt8kIJ9sgaNxK-mX
+
 Test Dataset: https://drive.google.com/uc?id=1M2B6nkqNZ6jsjmYqoZol60O5jBshrryi
 
 ---
